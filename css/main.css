@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: greenyellow;
 }
 p {
     color: red;
@@ -11,4 +11,5 @@ h2 {
 .main {
     color: blue;
     /* comentariy */
+    text-shadow: 0 0 5px red;
 }
